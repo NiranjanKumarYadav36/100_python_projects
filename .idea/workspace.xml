@@ -1,0 +1,320 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="d661d12c-6dac-44c2-a428-7d1e615b62dd" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/Project_Default.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/profiles_settings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/pythonProjects.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/10_command_line_app/2024-09-01.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/10_command_line_app/2024-09-03.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/10_command_line_app/daily_notes.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/12_SqlQueries/data.db" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/12_SqlQueries/query_album.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/12_SqlQueries/query_invoice.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/13_TextAnalyzer/numerical_input_analyzer.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/13_TextAnalyzer/text_analyzer.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/14_Word_Documents/merge_documents.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/14_Word_Documents/modify_word_documents.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/14_Word_Documents/panda1.docx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/14_Word_Documents/panda2.docx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/14_Word_Documents/word_document/sample1.docx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/14_Word_Documents/word_document/sample2.docx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/14_Word_Documents/word_document/sample3.docx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/15_Text_Files/a (1).txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/15_Text_Files/b (1).txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/15_Text_Files/c (1).txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/15_Text_Files/count_word_frequencies.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/15_Text_Files/merged_file.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/15_Text_Files/merging_content.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/15_Text_Files/word_frequencies.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/17_Streamlit_1/currency_converter/app.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/17_Streamlit_1/data_visualization/app.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/17_Streamlit_1/data_visualization/files/a.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/17_Streamlit_1/data_visualization/files/b.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/17_Streamlit_1/data_visualization/files/c.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/17_Streamlit_1/data_visualization/files/d.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/17_Streamlit_1/data_visualization/files/e.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/17_Streamlit_1/distance_converter/app.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/17_Streamlit_1/excel_converter/app.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/17_Streamlit_1/excel_converter/views.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/17_Streamlit_1/historical_events/app.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/17_Streamlit_1/name_generator/app.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/17_Streamlit_1/polars/analyze_car_data.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/17_Streamlit_1/polars/analyze_car_sales.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/17_Streamlit_1/polars/analyze_plant_data.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/17_Streamlit_1/polars/analyze_weather_data.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/17_Streamlit_1/polars/files/cars.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/17_Streamlit_1/polars/files/cly_4_cars.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/17_Streamlit_1/polars/files/iris.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/17_Streamlit_1/polars/files/mean_sepal_length.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/17_Streamlit_1/polars/files/pivot_car_sales_table.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/17_Streamlit_1/polars/files/sales.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/17_Streamlit_1/polars/files/weather.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/18_Kivy/adding_numbers.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/18_Kivy/english_german.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/18_Kivy/translation_app.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/19_USGS_API/earthquake_data_for_any_range.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/1_GuessingGame/word-guessing.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/20_PyQt/bmi_calculator.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/20_PyQt/data_entry.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/20_PyQt/temperature_converter_gui.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/2_DeeplTranslator/main.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/3_String Manipulation/snowwhite.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/3_String Manipulation/text_to_sentence_case.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/4_CountryJsonData/access_json_data_countries.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/4_CountryJsonData/quizes_json_data.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/5_excel_to_json/1_country_data.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/5_excel_to_json/europe.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/5_excel_to_json/europe.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/5_excel_to_json/europe.xlsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/6_UsingAPIs/dicovering_country_details.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/6_UsingAPIs/discovering_historical_events_by_date.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/7_FilesDataManipulation/add_day_and_words_count_to_filenames.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/7_FilesDataManipulation/files/a.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/7_FilesDataManipulation/files/b.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/7_FilesDataManipulation/files/c.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/7_FilesDataManipulation/files/d.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/7_FilesDataManipulation/files/e.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/9_RestApi/book_api.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/9_RestApi/books.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/9_RestApi/recipe_api.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mon.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pdf.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/playfair.py" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Script" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 8
+}</component>
+  <component name="ProjectId" id="2lMSmpvS1KLgddfau8gsjQTuy1C" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "ASKED_ADD_EXTERNAL_FILES": "true",
+    "Python.1_country_data.executor": "Run",
+    "Python.access_json_data_countries.executor": "Run",
+    "Python.add_day_and_words_count_to_filenames.executor": "Run",
+    "Python.adding_numbers.executor": "Run",
+    "Python.analyze_car_data.executor": "Run",
+    "Python.analyze_car_sales.executor": "Run",
+    "Python.analyze_plant_data.executor": "Run",
+    "Python.analyze_weather_data.executor": "Run",
+    "Python.app.executor": "Run",
+    "Python.bmi_calculator.executor": "Run",
+    "Python.book_api.executor": "Run",
+    "Python.count_word_frequencies.executor": "Run",
+    "Python.daily_notes.executor": "Run",
+    "Python.data_entry.executor": "Run",
+    "Python.dicovering_country_details.executor": "Run",
+    "Python.discovering_historical_events_by_date.executor": "Run",
+    "Python.earthquake_data_for_any_range.executor": "Run",
+    "Python.frame.executor": "Run",
+    "Python.main.executor": "Run",
+    "Python.merging_content (1).executor": "Run",
+    "Python.merging_content.executor": "Run",
+    "Python.modify_word_documents (1).executor": "Run",
+    "Python.modify_word_documents.executor": "Run",
+    "Python.mon.executor": "Run",
+    "Python.numerical_input_analyzer.executor": "Run",
+    "Python.playfair.executor": "Run",
+    "Python.query_album.executor": "Run",
+    "Python.query_invoice.executor": "Run",
+    "Python.quizes_json_data.executor": "Run",
+    "Python.recipe_api.executor": "Run",
+    "Python.temperature_converter_gui.executor": "Run",
+    "Python.text_analyzer.executor": "Run",
+    "Python.text_to_sentence_case.executor": "Run",
+    "Python.translation_app.executor": "Run",
+    "Python.word-guessing.executor": "Run",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "git-widget-placeholder": "main",
+    "ignore.virus.scanning.warn.message": "true",
+    "last_opened_file_path": "C:/Users/ANIL KUMAR YADAV/python app/pythonProjects/17_Streamlit_1/data_visualization",
+    "settings.editor.selected.configurable": "org.jetbrains.plugins.github.ui.GithubSettingsConfigurable"
+  }
+}]]></component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\ANIL KUMAR YADAV\python app\pythonProjects\17_Streamlit_1\data_visualization" />
+      <recent name="C:\Users\ANIL KUMAR YADAV\python app\pythonProjects\17_Streamlit_1" />
+      <recent name="C:\Users\ANIL KUMAR YADAV\python app\pythonProjects\7_FilesDataManipulation\files" />
+      <recent name="C:\Users\ANIL KUMAR YADAV\python app\pythonProjects\14_Word_Documents\word_document" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\ANIL KUMAR YADAV\python app\pythonProjects\18_Kivy" />
+      <recent name="C:\Users\ANIL KUMAR YADAV\python app\pythonProjects\17_Streamlit_1\polars\files" />
+      <recent name="C:\Users\ANIL KUMAR YADAV\python app\pythonProjects\17_Streamlit_1\polars" />
+      <recent name="C:\Users\ANIL KUMAR YADAV\python app\pythonProjects\17_Streamlit_1\data_visualization\files" />
+      <recent name="C:\Users\ANIL KUMAR YADAV\python app\pythonProjects\17_Streamlit_1\excel_converter" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Python.data_entry">
+    <configuration name="bmi_calculator" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="pythonProjects" />
+      <option name="ENV_FILES" value="" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/20_PyQt" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/20_PyQt/bmi_calculator.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="data_entry" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="pythonProjects" />
+      <option name="ENV_FILES" value="" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/20_PyQt" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/20_PyQt/data_entry.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="earthquake_data_for_any_range" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="pythonProjects" />
+      <option name="ENV_FILES" value="" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/19_USGS_API" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/19_USGS_API/earthquake_data_for_any_range.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="playfair" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="pythonProjects" />
+      <option name="ENV_FILES" value="" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/playfair.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="temperature_converter_gui" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="pythonProjects" />
+      <option name="ENV_FILES" value="" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/20_PyQt" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/20_PyQt/temperature_converter_gui.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Python.data_entry" />
+        <item itemvalue="Python.bmi_calculator" />
+        <item itemvalue="Python.temperature_converter_gui" />
+        <item itemvalue="Python.earthquake_data_for_any_range" />
+        <item itemvalue="Python.playfair" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SharedIndexes">
+    <attachedChunks>
+      <set>
+        <option value="bundled-python-sdk-0509580d9d50-746f403e7f0c-com.jetbrains.pycharm.community.sharedIndexes.bundled-PC-241.14494.241" />
+      </set>
+    </attachedChunks>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="d661d12c-6dac-44c2-a428-7d1e615b62dd" name="Changes" comment="" />
+      <created>1724988614870</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1724988614870</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
+  </component>
+</project>
