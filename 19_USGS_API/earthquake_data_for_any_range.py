@@ -2,6 +2,7 @@ import requests
 import pandas as pd
 from datetime import datetime, timedelta, timezone
 
+
 def get_data(start_date, end_date):
     url = "https://earthquake.usgs.gov/fdsnws/event/1/query"
     params = {
@@ -42,3 +43,5 @@ enddate = (yesterday + timedelta(days=1)).strftime('%Y-%m-%d')
 raw_data = get_data(startdate, enddate)
 data = extract_data(raw_data)
 get_csv(data, 'earthquake_data.csv')
+
+
