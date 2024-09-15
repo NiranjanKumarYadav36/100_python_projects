@@ -4,24 +4,30 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="d661d12c-6dac-44c2-a428-7d1e615b62dd" name="Changes" comment="added 20 projetcs">
-      <change afterPath="$PROJECT_DIR$/21_FlaskApp/NewsArticles/templates/business.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/21_FlaskApp/NewsArticles/templates/index.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/22_Shutil/Downloads/data/a.csv" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/22_Shutil/Downloads/data/b.csv" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/22_Shutil/Downloads/elephant.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/22_Shutil/Downloads/index.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/22_Shutil/Downloads/notes.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/22_Shutil/Downloads/widget.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/22_Shutil/clean_folder.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/23_CommandLineArgument/day_of_week_for_the_date.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/23_CommandLineArgument/days_between_date.py" afterDir="false" />
+    <list default="true" id="d661d12c-6dac-44c2-a428-7d1e615b62dd" name="Changes" comment="added 22 projetcs">
+      <change afterPath="$PROJECT_DIR$/24_OOP/capitalize_snowwhite.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/24_OOP/capitalizing_first_letter.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/24_OOP/example.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/24_OOP/magic_methods.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/24_OOP/reversed_text.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/24_OOP/reversedexample.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/24_OOP/snowwhite.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/25_DataVisualization/Matplotlib/data.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/25_DataVisualization/Matplotlib/files/a (2).txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/25_DataVisualization/Matplotlib/files/b (2).txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/25_DataVisualization/Matplotlib/files/c (2).txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/25_DataVisualization/Matplotlib/files/d (1).txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/25_DataVisualization/Matplotlib/plot_data_from_multiples_files.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/25_DataVisualization/Matplotlib/plot_data_matplotlib.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/25_DataVisualization/Streamlit/employee_data_dashboard.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/25_DataVisualization/Streamlit/employees.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/25_DataVisualization/Streamlit/martian_data.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/25_DataVisualization/Streamlit/martian_data_dashboard.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/25_DataVisualization/plotly/employees (1).csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/25_DataVisualization/plotly/houses.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/25_DataVisualization/plotly/plotly_employee_data.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/25_DataVisualization/plotly/plotly_housing_data.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/19_USGS_API/earthquake_data_for_any_range.py" beforeDir="false" afterPath="$PROJECT_DIR$/19_USGS_API/earthquake_data_for_any_range.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/1_GuessingGame/word-guessing.py" beforeDir="false" afterPath="$PROJECT_DIR$/1_GuessingGame/word-guessing.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/mon.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/pdf.py" beforeDir="false" afterPath="$PROJECT_DIR$/21_FlaskApp/NewsArticles/app.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/playfair.py" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -78,6 +84,7 @@
     "Python.ebird_api.executor": "Run",
     "Python.frame.executor": "Run",
     "Python.inaturalist.executor": "Run",
+    "Python.magic_methods.executor": "Run",
     "Python.main.executor": "Run",
     "Python.merging_content (1).executor": "Run",
     "Python.merging_content.executor": "Run",
@@ -86,10 +93,15 @@
     "Python.mon.executor": "Run",
     "Python.numerical_input_analyzer.executor": "Run",
     "Python.playfair.executor": "Run",
+    "Python.plot_data_from_multiples_files.executor": "Run",
+    "Python.plot_data_matplotlib.executor": "Run",
+    "Python.plotly_employee_data.executor": "Run",
+    "Python.plotly_housing_data.executor": "Run",
     "Python.query_album.executor": "Run",
     "Python.query_invoice.executor": "Run",
     "Python.quizes_json_data.executor": "Run",
     "Python.recipe_api.executor": "Run",
+    "Python.reversed_text.executor": "Run",
     "Python.sq.executor": "Run",
     "Python.temperature_converter_gui.executor": "Run",
     "Python.text_analyzer.executor": "Run",
@@ -99,28 +111,28 @@
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "git-widget-placeholder": "main",
     "ignore.virus.scanning.warn.message": "true",
-    "last_opened_file_path": "C:/Users/ANIL KUMAR YADAV/python app/pythonProjects/22_Shutil/Downloads",
+    "last_opened_file_path": "C:/Users/ANIL KUMAR YADAV/python app/pythonProjects/25_DataVisualization/plotly",
     "settings.editor.selected.configurable": "preferences.pluginManager"
   }
 }]]></component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
-      <recent name="C:\Users\ANIL KUMAR YADAV\python app\pythonProjects\22_Shutil\Downloads" />
-      <recent name="C:\Users\ANIL KUMAR YADAV\python app\pythonProjects\17_Streamlit_1\data_visualization" />
-      <recent name="C:\Users\ANIL KUMAR YADAV\python app\pythonProjects\17_Streamlit_1" />
-      <recent name="C:\Users\ANIL KUMAR YADAV\python app\pythonProjects\7_FilesDataManipulation\files" />
-      <recent name="C:\Users\ANIL KUMAR YADAV\python app\pythonProjects\14_Word_Documents\word_document" />
+      <recent name="C:\Users\ANIL KUMAR YADAV\python app\pythonProjects\25_DataVisualization\plotly" />
+      <recent name="C:\Users\ANIL KUMAR YADAV\python app\pythonProjects\25_DataVisualization\Streamlit" />
+      <recent name="C:\Users\ANIL KUMAR YADAV\python app\pythonProjects\25_DataVisualization\files" />
+      <recent name="C:\Users\ANIL KUMAR YADAV\python app\pythonProjects\25_DataVisualization" />
+      <recent name="C:\Users\ANIL KUMAR YADAV\python app\pythonProjects\24_OOP" />
     </key>
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\ANIL KUMAR YADAV\python app\pythonProjects\25_DataVisualization\Matplotlib" />
       <recent name="C:\Users\ANIL KUMAR YADAV\python app\pythonProjects\23_CommandLineArgument\f" />
       <recent name="C:\Users\ANIL KUMAR YADAV\python app\pythonProjects\22_Shutil" />
       <recent name="C:\Users\ANIL KUMAR YADAV\python app\pythonProjects\18_Kivy" />
       <recent name="C:\Users\ANIL KUMAR YADAV\python app\pythonProjects\17_Streamlit_1\polars\files" />
-      <recent name="C:\Users\ANIL KUMAR YADAV\python app\pythonProjects\17_Streamlit_1\polars" />
     </key>
   </component>
-  <component name="RunManager" selected="Python.days_between_date">
-    <configuration name="app" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+  <component name="RunManager" selected="Python.plotly_employee_data">
+    <configuration name="magic_methods" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="pythonProjects" />
       <option name="ENV_FILES" value="" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -129,11 +141,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/21_FlaskApp/NewsArticles" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/24_OOP" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/21_FlaskApp/NewsArticles/app.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/24_OOP/magic_methods.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -142,7 +154,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="clean_folder" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="plot_data_from_multiples_files" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="pythonProjects" />
       <option name="ENV_FILES" value="" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -151,11 +163,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/22_Shutil" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/25_DataVisualization" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/22_Shutil/clean_folder.py" />
+      <option name="SCRIPT_NAME" value="C:\Users\ANIL KUMAR YADAV\python app\pythonProjects\25_DataVisualization\Matplotlib\plot_data_from_multiples_files.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -164,7 +176,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="database_conversion (1)" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="plot_data_matplotlib" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="pythonProjects" />
       <option name="ENV_FILES" value="" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -173,11 +185,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/25_DataVisualization" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/database_conversion.py" />
+      <option name="SCRIPT_NAME" value="C:\Users\ANIL KUMAR YADAV\python app\pythonProjects\25_DataVisualization\Matplotlib\plot_data_matplotlib.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -186,7 +198,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="days_between_date" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="plotly_employee_data" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="pythonProjects" />
       <option name="ENV_FILES" value="" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -195,11 +207,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/23_CommandLineArgument" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/25_DataVisualization/plotly" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="C:\Users\ANIL KUMAR YADAV\python app\pythonProjects\23_CommandLineArgument\f\days_between_date.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/25_DataVisualization/plotly/plotly_employee_data.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -208,7 +220,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="ebird_api" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="plotly_housing_data" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="pythonProjects" />
       <option name="ENV_FILES" value="" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -217,11 +229,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/25_DataVisualization/plotly" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/ebird_api.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/25_DataVisualization/plotly/plotly_housing_data.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -232,11 +244,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Python.days_between_date" />
-        <item itemvalue="Python.clean_folder" />
-        <item itemvalue="Python.app" />
-        <item itemvalue="Python.database_conversion (1)" />
-        <item itemvalue="Python.ebird_api" />
+        <item itemvalue="Python.plotly_employee_data" />
+        <item itemvalue="Python.plotly_housing_data" />
+        <item itemvalue="Python.plot_data_from_multiples_files" />
+        <item itemvalue="Python.plot_data_matplotlib" />
+        <item itemvalue="Python.magic_methods" />
       </list>
     </recent_temporary>
   </component>
@@ -280,13 +292,22 @@
       <option name="project" value="LOCAL" />
       <updated>1725806241232</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="added 22 projetcs">
+      <option name="closed" value="true" />
+      <created>1726404480533</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1726404480533</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
     <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
     <MESSAGE value="added 20 projetcs" />
-    <option name="LAST_COMMIT_MESSAGE" value="added 20 projetcs" />
+    <MESSAGE value="added 22 projetcs" />
+    <option name="LAST_COMMIT_MESSAGE" value="added 22 projetcs" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
