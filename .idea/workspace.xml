@@ -4,29 +4,25 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="d661d12c-6dac-44c2-a428-7d1e615b62dd" name="Changes" comment="added 22 projetcs">
-      <change afterPath="$PROJECT_DIR$/24_OOP/capitalize_snowwhite.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/24_OOP/capitalizing_first_letter.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/24_OOP/example.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/24_OOP/magic_methods.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/24_OOP/reversed_text.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/24_OOP/reversedexample.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/24_OOP/snowwhite.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/25_DataVisualization/Matplotlib/data.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/25_DataVisualization/Matplotlib/files/a (2).txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/25_DataVisualization/Matplotlib/files/b (2).txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/25_DataVisualization/Matplotlib/files/c (2).txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/25_DataVisualization/Matplotlib/files/d (1).txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/25_DataVisualization/Matplotlib/plot_data_from_multiples_files.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/25_DataVisualization/Matplotlib/plot_data_matplotlib.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/25_DataVisualization/Streamlit/employee_data_dashboard.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/25_DataVisualization/Streamlit/employees.csv" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/25_DataVisualization/Streamlit/martian_data.csv" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/25_DataVisualization/Streamlit/martian_data_dashboard.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/25_DataVisualization/plotly/employees (1).csv" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/25_DataVisualization/plotly/houses.csv" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/25_DataVisualization/plotly/plotly_employee_data.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/25_DataVisualization/plotly/plotly_housing_data.py" afterDir="false" />
+    <list default="true" id="d661d12c-6dac-44c2-a428-7d1e615b62dd" name="Changes" comment="25 th project data visualization">
+      <change afterPath="$PROJECT_DIR$/21_FlaskApp/FileUploader/file_uploader.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/21_FlaskApp/FileUploader/uploads/a.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/21_FlaskApp/FileUploader/uploads/accidents.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/21_FlaskApp/FileUploader/uploads/d (1).txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/26_Folium_Web_Mapping/Accidents/accidents.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/26_Folium_Web_Mapping/Accidents/map_t_intersection_vechile_incidents.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/26_Folium_Web_Mapping/Earthquake_data/earthquake_map.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/26_Folium_Web_Mapping/Earthquake_data/earthquake_map.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/26_Folium_Web_Mapping/Earthquake_data/earthquakes_yesterday.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/26_Folium_Web_Mapping/Earthquake_data/extract_earthquake_data.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/26_Folium_Web_Mapping/Europe_country's/europe.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/26_Folium_Web_Mapping/Europe_country's/europe_country_map.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/26_Folium_Web_Mapping/Europe_country's/europe_map.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/27_OpenWeatherApi/current_temperature.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/28_Tkinter/calculator.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/28_Tkinter/calculator_2.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/28_Tkinter/miles_coverter.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/28_Tkinter/temperature_converter_gui.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -72,8 +68,11 @@
     "Python.birds.executor": "Run",
     "Python.bmi_calculator.executor": "Run",
     "Python.book_api.executor": "Run",
+    "Python.calculator.executor": "Run",
+    "Python.calculator_2.executor": "Run",
     "Python.clean_folder.executor": "Run",
     "Python.count_word_frequencies.executor": "Run",
+    "Python.current_temperature.executor": "Run",
     "Python.daily_notes.executor": "Run",
     "Python.data_entry.executor": "Run",
     "Python.database_conversion (1).executor": "Run",
@@ -81,11 +80,17 @@
     "Python.dicovering_country_details.executor": "Run",
     "Python.discovering_historical_events_by_date.executor": "Run",
     "Python.earthquake_data_for_any_range.executor": "Run",
+    "Python.earthquake_mao.executor": "Run",
+    "Python.earthquake_map.executor": "Run",
     "Python.ebird_api.executor": "Run",
+    "Python.europe_country_map.executor": "Run",
+    "Python.extract_earthquake_data.executor": "Run",
+    "Python.file_uploader.executor": "Run",
     "Python.frame.executor": "Run",
     "Python.inaturalist.executor": "Run",
     "Python.magic_methods.executor": "Run",
     "Python.main.executor": "Run",
+    "Python.map_t_intersection_vechile_incidents.executor": "Run",
     "Python.merging_content (1).executor": "Run",
     "Python.merging_content.executor": "Run",
     "Python.modify_word_documents (1).executor": "Run",
@@ -111,28 +116,28 @@
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "git-widget-placeholder": "main",
     "ignore.virus.scanning.warn.message": "true",
-    "last_opened_file_path": "C:/Users/ANIL KUMAR YADAV/python app/pythonProjects/25_DataVisualization/plotly",
+    "last_opened_file_path": "C:/Users/ANIL KUMAR YADAV/python app/pythonProjects/26_Folium_Web_Mapping/Accidents",
     "settings.editor.selected.configurable": "preferences.pluginManager"
   }
 }]]></component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\ANIL KUMAR YADAV\python app\pythonProjects\26_Folium_Web_Mapping\Accidents" />
+      <recent name="C:\Users\ANIL KUMAR YADAV\python app\pythonProjects\26_Folium_Web_Mapping" />
+      <recent name="C:\Users\ANIL KUMAR YADAV\python app\pythonProjects\25_Folium_Web_Mapping" />
       <recent name="C:\Users\ANIL KUMAR YADAV\python app\pythonProjects\25_DataVisualization\plotly" />
       <recent name="C:\Users\ANIL KUMAR YADAV\python app\pythonProjects\25_DataVisualization\Streamlit" />
-      <recent name="C:\Users\ANIL KUMAR YADAV\python app\pythonProjects\25_DataVisualization\files" />
-      <recent name="C:\Users\ANIL KUMAR YADAV\python app\pythonProjects\25_DataVisualization" />
-      <recent name="C:\Users\ANIL KUMAR YADAV\python app\pythonProjects\24_OOP" />
     </key>
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\ANIL KUMAR YADAV\python app\pythonProjects\26_Folium_Web_Mapping\Europe_country's" />
+      <recent name="C:\Users\ANIL KUMAR YADAV\python app\pythonProjects\26_Folium_Web_Mapping\Earthquake_data" />
       <recent name="C:\Users\ANIL KUMAR YADAV\python app\pythonProjects\25_DataVisualization\Matplotlib" />
       <recent name="C:\Users\ANIL KUMAR YADAV\python app\pythonProjects\23_CommandLineArgument\f" />
       <recent name="C:\Users\ANIL KUMAR YADAV\python app\pythonProjects\22_Shutil" />
-      <recent name="C:\Users\ANIL KUMAR YADAV\python app\pythonProjects\18_Kivy" />
-      <recent name="C:\Users\ANIL KUMAR YADAV\python app\pythonProjects\17_Streamlit_1\polars\files" />
     </key>
   </component>
-  <component name="RunManager" selected="Python.plotly_employee_data">
-    <configuration name="magic_methods" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+  <component name="RunManager" selected="Python.calculator_2">
+    <configuration name="calculator" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="pythonProjects" />
       <option name="ENV_FILES" value="" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -141,11 +146,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/24_OOP" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/28_Tkinter" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/24_OOP/magic_methods.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/28_Tkinter/calculator.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -154,7 +159,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="plot_data_from_multiples_files" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="calculator_2" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="pythonProjects" />
       <option name="ENV_FILES" value="" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -163,11 +168,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/25_DataVisualization" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/28_Tkinter" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="C:\Users\ANIL KUMAR YADAV\python app\pythonProjects\25_DataVisualization\Matplotlib\plot_data_from_multiples_files.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/28_Tkinter/calculator_2.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -176,7 +181,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="plot_data_matplotlib" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="current_temperature" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="pythonProjects" />
       <option name="ENV_FILES" value="" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -185,11 +190,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/25_DataVisualization" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/27_OpenWeatherApi" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="C:\Users\ANIL KUMAR YADAV\python app\pythonProjects\25_DataVisualization\Matplotlib\plot_data_matplotlib.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/27_OpenWeatherApi/current_temperature.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -198,7 +203,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="plotly_employee_data" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="miles_coverter" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="pythonProjects" />
       <option name="ENV_FILES" value="" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -207,11 +212,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/25_DataVisualization/plotly" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/28_Tkinter" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/25_DataVisualization/plotly/plotly_employee_data.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/28_Tkinter/miles_coverter.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -220,7 +225,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="plotly_housing_data" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="temperature_converter_gui" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="pythonProjects" />
       <option name="ENV_FILES" value="" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -229,11 +234,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/25_DataVisualization/plotly" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/28_Tkinter" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/25_DataVisualization/plotly/plotly_housing_data.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/28_Tkinter/temperature_converter_gui.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -244,11 +249,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Python.plotly_employee_data" />
-        <item itemvalue="Python.plotly_housing_data" />
-        <item itemvalue="Python.plot_data_from_multiples_files" />
-        <item itemvalue="Python.plot_data_matplotlib" />
-        <item itemvalue="Python.magic_methods" />
+        <item itemvalue="Python.calculator_2" />
+        <item itemvalue="Python.calculator" />
+        <item itemvalue="Python.miles_coverter" />
+        <item itemvalue="Python.temperature_converter_gui" />
+        <item itemvalue="Python.current_temperature" />
       </list>
     </recent_temporary>
   </component>
@@ -300,14 +305,23 @@
       <option name="project" value="LOCAL" />
       <updated>1726404480533</updated>
     </task>
-    <option name="localTasksCounter" value="5" />
+    <task id="LOCAL-00005" summary="25 th project data visualization">
+      <option name="closed" value="true" />
+      <created>1726422456486</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1726422456486</updated>
+    </task>
+    <option name="localTasksCounter" value="6" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
     <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
     <MESSAGE value="added 20 projetcs" />
     <MESSAGE value="added 22 projetcs" />
-    <option name="LAST_COMMIT_MESSAGE" value="added 22 projetcs" />
+    <MESSAGE value="25 th project data visualization" />
+    <option name="LAST_COMMIT_MESSAGE" value="25 th project data visualization" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
