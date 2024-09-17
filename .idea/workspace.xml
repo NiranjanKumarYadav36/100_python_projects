@@ -4,26 +4,67 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="d661d12c-6dac-44c2-a428-7d1e615b62dd" name="Changes" comment="25 th project data visualization">
-      <change afterPath="$PROJECT_DIR$/21_FlaskApp/FileUploader/file_uploader.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/21_FlaskApp/FileUploader/uploads/a.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/21_FlaskApp/FileUploader/uploads/accidents.csv" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/21_FlaskApp/FileUploader/uploads/d (1).txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/26_Folium_Web_Mapping/Accidents/accidents.csv" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/26_Folium_Web_Mapping/Accidents/map_t_intersection_vechile_incidents.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/26_Folium_Web_Mapping/Earthquake_data/earthquake_map.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/26_Folium_Web_Mapping/Earthquake_data/earthquake_map.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/26_Folium_Web_Mapping/Earthquake_data/earthquakes_yesterday.csv" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/26_Folium_Web_Mapping/Earthquake_data/extract_earthquake_data.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/26_Folium_Web_Mapping/Europe_country's/europe.csv" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/26_Folium_Web_Mapping/Europe_country's/europe_country_map.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/26_Folium_Web_Mapping/Europe_country's/europe_map.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/27_OpenWeatherApi/current_temperature.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/28_Tkinter/calculator.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/28_Tkinter/calculator_2.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/28_Tkinter/miles_coverter.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/28_Tkinter/temperature_converter_gui.py" afterDir="false" />
+    <list default="true" id="d661d12c-6dac-44c2-a428-7d1e615b62dd" name="Changes" comment="make calculator using tkinter">
+      <change afterPath="$PROJECT_DIR$/29_Binary_files/detect_duplicate_files.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/29_Binary_files/detect_duplicate_files_with_hash.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/29_Binary_files/detect_duplicate_images.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/29_Binary_files/files/a.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/29_Binary_files/files/aa.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/29_Binary_files/files/b.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/29_Binary_files/files/bb.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/29_Binary_files/files/c.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/29_Binary_files/files/d (2).txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/29_Binary_files/files/dd.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/29_Binary_files/files/e.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/29_Binary_files/img_file/bird.jpeg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/29_Binary_files/img_file/ficus.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/29_Binary_files/img_file/flying.jpeg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/29_Binary_files/img_file/leaves.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/29_Binary_files/img_file/yoga.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/30_BeautifulSoup/paragraphs.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/30_BeautifulSoup/scrape_value_from_website.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/30_BeautifulSoup/scrapping_wikipedia.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/30_BeautifulSoup/temp_from_weather.com.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/31_Selenium/automate_login.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/31_Selenium/chromedriver-win64/LICENSE.chromedriver" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/31_Selenium/chromedriver-win64/THIRD_PARTY_NOTICES.chromedriver" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/31_Selenium/chromedriver-win64/chromedriver.exe" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/32_pdfplumber/pdf1.pdf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/32_pdfplumber/pdf1_content.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/32_pdfplumber/word_count_from_pdf.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/33_Email_sending/.env" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/33_Email_sending/email.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/33_Email_sending/email.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/33_Email_sending/file1.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/33_Email_sending/send_email_with_attachment_gmail.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/34_Automation/1800.csv.gz" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/34_Automation/1801.csv.gz" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/34_Automation/1802.csv.gz" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/34_Automation/1803.csv.gz" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/34_Automation/1804.csv.gz" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/34_Automation/AEM00041218.csv.gz" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/34_Automation/AF000040930.csv.gz" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/34_Automation/AFM00040938.csv.gz" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/34_Automation/AFM00040948.csv.gz" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/34_Automation/AFM00040990.csv.gz" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/34_Automation/AG000060390.csv.gz" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/34_Automation/automated_download.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/34_Automation/automated_station.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/34_Automation/stations.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/34_Automation/sytem_metrices.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/5_working_with_Excel/Input.xlsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/5_working_with_Excel/MergingExcelFiles/excels/email_addresses1.xlsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/5_working_with_Excel/MergingExcelFiles/excels/email_addresses2.xlsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/5_working_with_Excel/MergingExcelFiles/mergin_excels.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/5_working_with_Excel/added_bonus_employee_data.xlsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/5_working_with_Excel/calculate_bonus_colum_excel.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/5_working_with_Excel/employee_data.xlsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/5_working_with_Excel/output.xlsx" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/5_excel_to_json/1_country_data.py" beforeDir="false" afterPath="$PROJECT_DIR$/5_working_with_Excel/1_country_data.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/5_excel_to_json/europe.csv" beforeDir="false" afterPath="$PROJECT_DIR$/5_working_with_Excel/europe.csv" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/5_excel_to_json/europe.json" beforeDir="false" afterPath="$PROJECT_DIR$/5_working_with_Excel/europe.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/5_excel_to_json/europe.xlsx" beforeDir="false" afterPath="$PROJECT_DIR$/5_working_with_Excel/europe.xlsx" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -65,9 +106,13 @@
     "Python.analyze_plant_data.executor": "Run",
     "Python.analyze_weather_data.executor": "Run",
     "Python.app.executor": "Run",
+    "Python.automate_login.executor": "Run",
+    "Python.automated_download.executor": "Run",
+    "Python.automated_station.executor": "Run",
     "Python.birds.executor": "Run",
     "Python.bmi_calculator.executor": "Run",
     "Python.book_api.executor": "Run",
+    "Python.calculate_bonus_colum_excel.executor": "Run",
     "Python.calculator.executor": "Run",
     "Python.calculator_2.executor": "Run",
     "Python.clean_folder.executor": "Run",
@@ -77,6 +122,9 @@
     "Python.data_entry.executor": "Run",
     "Python.database_conversion (1).executor": "Run",
     "Python.days_between_date.executor": "Run",
+    "Python.detect_duplicate_files.executor": "Run",
+    "Python.detect_duplicate_files_with_hash.executor": "Run",
+    "Python.detect_duplicate_images.executor": "Run",
     "Python.dicovering_country_details.executor": "Run",
     "Python.discovering_historical_events_by_date.executor": "Run",
     "Python.earthquake_data_for_any_range.executor": "Run",
@@ -91,6 +139,7 @@
     "Python.magic_methods.executor": "Run",
     "Python.main.executor": "Run",
     "Python.map_t_intersection_vechile_incidents.executor": "Run",
+    "Python.mergin_excels.executor": "Run",
     "Python.merging_content (1).executor": "Run",
     "Python.merging_content.executor": "Run",
     "Python.modify_word_documents (1).executor": "Run",
@@ -107,26 +156,32 @@
     "Python.quizes_json_data.executor": "Run",
     "Python.recipe_api.executor": "Run",
     "Python.reversed_text.executor": "Run",
+    "Python.scrape_value_from_website.executor": "Run",
+    "Python.scrapping_wikipedia.executor": "Run",
+    "Python.send_email_with_attachment_gmail.executor": "Run",
     "Python.sq.executor": "Run",
+    "Python.sytem_metrices.executor": "Run",
+    "Python.temp_from_weather.com.executor": "Run",
     "Python.temperature_converter_gui.executor": "Run",
     "Python.text_analyzer.executor": "Run",
     "Python.text_to_sentence_case.executor": "Run",
     "Python.translation_app.executor": "Run",
     "Python.word-guessing.executor": "Run",
+    "Python.word_count_from_pdf.executor": "Run",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "git-widget-placeholder": "main",
     "ignore.virus.scanning.warn.message": "true",
-    "last_opened_file_path": "C:/Users/ANIL KUMAR YADAV/python app/pythonProjects/26_Folium_Web_Mapping/Accidents",
+    "last_opened_file_path": "C:/Users/ANIL KUMAR YADAV/python app/pythonProjects/5_working_with_Excel/MergingExcelFiles/excels",
     "settings.editor.selected.configurable": "preferences.pluginManager"
   }
 }]]></component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
-      <recent name="C:\Users\ANIL KUMAR YADAV\python app\pythonProjects\26_Folium_Web_Mapping\Accidents" />
-      <recent name="C:\Users\ANIL KUMAR YADAV\python app\pythonProjects\26_Folium_Web_Mapping" />
-      <recent name="C:\Users\ANIL KUMAR YADAV\python app\pythonProjects\25_Folium_Web_Mapping" />
-      <recent name="C:\Users\ANIL KUMAR YADAV\python app\pythonProjects\25_DataVisualization\plotly" />
-      <recent name="C:\Users\ANIL KUMAR YADAV\python app\pythonProjects\25_DataVisualization\Streamlit" />
+      <recent name="C:\Users\ANIL KUMAR YADAV\python app\pythonProjects\5_working_with_Excel\MergingExcelFiles\excels" />
+      <recent name="C:\Users\ANIL KUMAR YADAV\python app\pythonProjects\5_working_with_Excel" />
+      <recent name="C:\Users\ANIL KUMAR YADAV\python app\pythonProjects\34_Automation" />
+      <recent name="C:\Users\ANIL KUMAR YADAV\python app\pythonProjects\32_pdfplumber" />
+      <recent name="C:\Users\ANIL KUMAR YADAV\python app\pythonProjects\31_Selenium" />
     </key>
     <key name="MoveFile.RECENT_KEYS">
       <recent name="C:\Users\ANIL KUMAR YADAV\python app\pythonProjects\26_Folium_Web_Mapping\Europe_country's" />
@@ -136,8 +191,8 @@
       <recent name="C:\Users\ANIL KUMAR YADAV\python app\pythonProjects\22_Shutil" />
     </key>
   </component>
-  <component name="RunManager" selected="Python.calculator_2">
-    <configuration name="calculator" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+  <component name="RunManager" selected="Python.mergin_excels">
+    <configuration name="automated_download" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="pythonProjects" />
       <option name="ENV_FILES" value="" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -146,11 +201,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/28_Tkinter" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/34_Automation" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/28_Tkinter/calculator.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/34_Automation/automated_download.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -159,7 +214,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="calculator_2" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="automated_station" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="pythonProjects" />
       <option name="ENV_FILES" value="" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -168,11 +223,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/28_Tkinter" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/34_Automation" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/28_Tkinter/calculator_2.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/34_Automation/automated_station.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -181,20 +236,17 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="current_temperature" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="calculate_bonus_colum_excel" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="pythonProjects" />
       <option name="ENV_FILES" value="" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/27_OpenWeatherApi" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/5_working_with_Excel" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/27_OpenWeatherApi/current_temperature.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/5_working_with_Excel/calculate_bonus_colum_excel.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -203,20 +255,17 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="miles_coverter" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="mergin_excels" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="pythonProjects" />
       <option name="ENV_FILES" value="" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/28_Tkinter" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/5_working_with_Excel/MergingExcelFiles" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/28_Tkinter/miles_coverter.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/5_working_with_Excel/MergingExcelFiles/mergin_excels.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -225,7 +274,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="temperature_converter_gui" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="sytem_metrices" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="pythonProjects" />
       <option name="ENV_FILES" value="" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -234,11 +283,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/28_Tkinter" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/34_Automation" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/28_Tkinter/temperature_converter_gui.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/34_Automation/sytem_metrices.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -249,11 +298,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Python.calculator_2" />
-        <item itemvalue="Python.calculator" />
-        <item itemvalue="Python.miles_coverter" />
-        <item itemvalue="Python.temperature_converter_gui" />
-        <item itemvalue="Python.current_temperature" />
+        <item itemvalue="Python.mergin_excels" />
+        <item itemvalue="Python.calculate_bonus_colum_excel" />
+        <item itemvalue="Python.sytem_metrices" />
+        <item itemvalue="Python.automated_station" />
+        <item itemvalue="Python.automated_download" />
       </list>
     </recent_temporary>
   </component>
@@ -313,7 +362,15 @@
       <option name="project" value="LOCAL" />
       <updated>1726422456486</updated>
     </task>
-    <option name="localTasksCounter" value="6" />
+    <task id="LOCAL-00006" summary="make calculator using tkinter">
+      <option name="closed" value="true" />
+      <created>1726499015099</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1726499015099</updated>
+    </task>
+    <option name="localTasksCounter" value="7" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
@@ -321,7 +378,8 @@
     <MESSAGE value="added 20 projetcs" />
     <MESSAGE value="added 22 projetcs" />
     <MESSAGE value="25 th project data visualization" />
-    <option name="LAST_COMMIT_MESSAGE" value="25 th project data visualization" />
+    <MESSAGE value="make calculator using tkinter" />
+    <option name="LAST_COMMIT_MESSAGE" value="make calculator using tkinter" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
