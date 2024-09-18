@@ -5,7 +5,7 @@ import os
 
 dotenv.load_dotenv()
 password = os.getenv('GMAIL_PASSWORD')
-sender_email = 'piyush362002@gmail.com'
+sender_email = ''
 
 yag = yagmail.SMTP(sender_email, password)
 

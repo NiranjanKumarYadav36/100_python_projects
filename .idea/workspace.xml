@@ -5,66 +5,17 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="d661d12c-6dac-44c2-a428-7d1e615b62dd" name="Changes" comment="make calculator using tkinter">
-      <change afterPath="$PROJECT_DIR$/29_Binary_files/detect_duplicate_files.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/29_Binary_files/detect_duplicate_files_with_hash.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/29_Binary_files/detect_duplicate_images.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/29_Binary_files/files/a.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/29_Binary_files/files/aa.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/29_Binary_files/files/b.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/29_Binary_files/files/bb.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/29_Binary_files/files/c.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/29_Binary_files/files/d (2).txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/29_Binary_files/files/dd.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/29_Binary_files/files/e.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/29_Binary_files/img_file/bird.jpeg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/29_Binary_files/img_file/ficus.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/29_Binary_files/img_file/flying.jpeg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/29_Binary_files/img_file/leaves.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/29_Binary_files/img_file/yoga.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/30_BeautifulSoup/paragraphs.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/30_BeautifulSoup/scrape_value_from_website.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/30_BeautifulSoup/scrapping_wikipedia.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/30_BeautifulSoup/temp_from_weather.com.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/31_Selenium/automate_login.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/31_Selenium/chromedriver-win64/LICENSE.chromedriver" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/31_Selenium/chromedriver-win64/THIRD_PARTY_NOTICES.chromedriver" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/31_Selenium/chromedriver-win64/chromedriver.exe" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/32_pdfplumber/pdf1.pdf" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/32_pdfplumber/pdf1_content.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/32_pdfplumber/word_count_from_pdf.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/33_Email_sending/.env" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/33_Email_sending/email.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/33_Email_sending/email.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/33_Email_sending/file1.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/33_Email_sending/send_email_with_attachment_gmail.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/34_Automation/1800.csv.gz" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/34_Automation/1801.csv.gz" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/34_Automation/1802.csv.gz" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/34_Automation/1803.csv.gz" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/34_Automation/1804.csv.gz" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/34_Automation/AEM00041218.csv.gz" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/34_Automation/AF000040930.csv.gz" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/34_Automation/AFM00040938.csv.gz" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/34_Automation/AFM00040948.csv.gz" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/34_Automation/AFM00040990.csv.gz" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/34_Automation/AG000060390.csv.gz" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/34_Automation/automated_download.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/34_Automation/automated_station.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/34_Automation/stations.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/34_Automation/sytem_metrices.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/5_working_with_Excel/Input.xlsx" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/5_working_with_Excel/MergingExcelFiles/excels/email_addresses1.xlsx" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/5_working_with_Excel/MergingExcelFiles/excels/email_addresses2.xlsx" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/5_working_with_Excel/MergingExcelFiles/mergin_excels.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/5_working_with_Excel/added_bonus_employee_data.xlsx" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/5_working_with_Excel/calculate_bonus_colum_excel.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/5_working_with_Excel/employee_data.xlsx" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/5_working_with_Excel/output.xlsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/35_rgeular_expressions/documents/sample1.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/35_rgeular_expressions/documents/sample2.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/35_rgeular_expressions/documents/sample3.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/35_rgeular_expressions/extract_email.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/5_excel_to_json/1_country_data.py" beforeDir="false" afterPath="$PROJECT_DIR$/5_working_with_Excel/1_country_data.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/5_excel_to_json/europe.csv" beforeDir="false" afterPath="$PROJECT_DIR$/5_working_with_Excel/europe.csv" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/5_excel_to_json/europe.json" beforeDir="false" afterPath="$PROJECT_DIR$/5_working_with_Excel/europe.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/5_excel_to_json/europe.xlsx" beforeDir="false" afterPath="$PROJECT_DIR$/5_working_with_Excel/europe.xlsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/31_Selenium/chromedriver-win64/LICENSE.chromedriver" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/31_Selenium/chromedriver-win64/THIRD_PARTY_NOTICES.chromedriver" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/31_Selenium/chromedriver-win64/chromedriver.exe" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/33_Email_sending/.env" beforeDir="false" afterPath="$PROJECT_DIR$/33_Email_sending/.env" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/33_Email_sending/email.py" beforeDir="false" afterPath="$PROJECT_DIR$/33_Email_sending/email.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/33_Email_sending/send_email_with_attachment_gmail.py" beforeDir="false" afterPath="$PROJECT_DIR$/33_Email_sending/send_email_with_attachment_gmail.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -133,6 +84,7 @@
     "Python.ebird_api.executor": "Run",
     "Python.europe_country_map.executor": "Run",
     "Python.extract_earthquake_data.executor": "Run",
+    "Python.extract_email.executor": "Run",
     "Python.file_uploader.executor": "Run",
     "Python.frame.executor": "Run",
     "Python.inaturalist.executor": "Run",
@@ -171,17 +123,17 @@
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "git-widget-placeholder": "main",
     "ignore.virus.scanning.warn.message": "true",
-    "last_opened_file_path": "C:/Users/ANIL KUMAR YADAV/python app/pythonProjects/5_working_with_Excel/MergingExcelFiles/excels",
+    "last_opened_file_path": "C:/Users/ANIL KUMAR YADAV/python app/pythonProjects/35_rgeular_expressions/documents",
     "settings.editor.selected.configurable": "preferences.pluginManager"
   }
 }]]></component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\ANIL KUMAR YADAV\python app\pythonProjects\35_rgeular_expressions\documents" />
       <recent name="C:\Users\ANIL KUMAR YADAV\python app\pythonProjects\5_working_with_Excel\MergingExcelFiles\excels" />
       <recent name="C:\Users\ANIL KUMAR YADAV\python app\pythonProjects\5_working_with_Excel" />
       <recent name="C:\Users\ANIL KUMAR YADAV\python app\pythonProjects\34_Automation" />
       <recent name="C:\Users\ANIL KUMAR YADAV\python app\pythonProjects\32_pdfplumber" />
-      <recent name="C:\Users\ANIL KUMAR YADAV\python app\pythonProjects\31_Selenium" />
     </key>
     <key name="MoveFile.RECENT_KEYS">
       <recent name="C:\Users\ANIL KUMAR YADAV\python app\pythonProjects\26_Folium_Web_Mapping\Europe_country's" />
@@ -191,29 +143,7 @@
       <recent name="C:\Users\ANIL KUMAR YADAV\python app\pythonProjects\22_Shutil" />
     </key>
   </component>
-  <component name="RunManager" selected="Python.mergin_excels">
-    <configuration name="automated_download" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
-      <module name="pythonProjects" />
-      <option name="ENV_FILES" value="" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/34_Automation" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/34_Automation/automated_download.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
+  <component name="RunManager" selected="Python.extract_email">
     <configuration name="automated_station" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="pythonProjects" />
       <option name="ENV_FILES" value="" />
@@ -241,6 +171,9 @@
       <option name="ENV_FILES" value="" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
       <option name="SDK_HOME" value="" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/5_working_with_Excel" />
       <option name="IS_MODULE_SDK" value="true" />
@@ -255,11 +188,36 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
+    <configuration name="extract_email" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="pythonProjects" />
+      <option name="ENV_FILES" value="" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/35_rgeular_expressions" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/35_rgeular_expressions/extract_email.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
     <configuration name="mergin_excels" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="pythonProjects" />
       <option name="ENV_FILES" value="" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
       <option name="SDK_HOME" value="" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/5_working_with_Excel/MergingExcelFiles" />
       <option name="IS_MODULE_SDK" value="true" />
@@ -298,11 +256,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.extract_email" />
         <item itemvalue="Python.mergin_excels" />
         <item itemvalue="Python.calculate_bonus_colum_excel" />
         <item itemvalue="Python.sytem_metrices" />
         <item itemvalue="Python.automated_station" />
-        <item itemvalue="Python.automated_download" />
       </list>
     </recent_temporary>
   </component>
@@ -370,7 +328,31 @@
       <option name="project" value="LOCAL" />
       <updated>1726499015099</updated>
     </task>
-    <option name="localTasksCounter" value="7" />
+    <task id="LOCAL-00007" summary="make calculator using tkinter">
+      <option name="closed" value="true" />
+      <created>1726592190558</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1726592190558</updated>
+    </task>
+    <task id="LOCAL-00008" summary="make calculator using tkinter">
+      <option name="closed" value="true" />
+      <created>1726592200089</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1726592200089</updated>
+    </task>
+    <task id="LOCAL-00009" summary="make calculator using tkinter">
+      <option name="closed" value="true" />
+      <created>1726592231523</created>
+      <option name="number" value="00009" />
+      <option name="presentableId" value="LOCAL-00009" />
+      <option name="project" value="LOCAL" />
+      <updated>1726592231523</updated>
+    </task>
+    <option name="localTasksCounter" value="10" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
@@ -388,6 +370,11 @@
           <url>file://$PROJECT_DIR$/21_FlaskApp/NewsArticles/app.py</url>
           <line>21</line>
           <option name="timeStamp" value="1" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/35_rgeular_expressions/extract_email.py</url>
+          <line>7</line>
+          <option name="timeStamp" value="2" />
         </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>

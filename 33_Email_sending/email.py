@@ -6,7 +6,7 @@ from email.mine.text import MIMEText
 dotenv.load_dotenv()
 
 # Step 1: Define the credentials
-sender_email = "piyush362002@gmail.com"
+sender_email = ""
 password = os.getenv("GMAIL_PASSWORD")
 
 # Step 2: Initialize the smtp server
