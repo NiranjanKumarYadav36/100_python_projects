@@ -1,7 +1,7 @@
 from flask import Flask, render_template
 import requests
 
-# api_key = "4886192ce21d46a98a32767ac3660057"
+# api_key = ""
 # url = f"https://newsapi.org/v2/top-headlines?apiKey={api_key}&q=business"
 
 app = Flask(__name__)
