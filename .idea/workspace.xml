@@ -4,18 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="d661d12c-6dac-44c2-a428-7d1e615b62dd" name="Changes" comment="make calculator using tkinter">
-      <change afterPath="$PROJECT_DIR$/35_rgeular_expressions/documents/sample1.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/35_rgeular_expressions/documents/sample2.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/35_rgeular_expressions/documents/sample3.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/35_rgeular_expressions/extract_email.py" afterDir="false" />
+    <list default="true" id="d661d12c-6dac-44c2-a428-7d1e615b62dd" name="Changes" comment="completed 100 projects">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/31_Selenium/chromedriver-win64/LICENSE.chromedriver" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/31_Selenium/chromedriver-win64/THIRD_PARTY_NOTICES.chromedriver" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/31_Selenium/chromedriver-win64/chromedriver.exe" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/33_Email_sending/.env" beforeDir="false" afterPath="$PROJECT_DIR$/33_Email_sending/.env" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/33_Email_sending/email.py" beforeDir="false" afterPath="$PROJECT_DIR$/33_Email_sending/email.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/33_Email_sending/send_email_with_attachment_gmail.py" beforeDir="false" afterPath="$PROJECT_DIR$/33_Email_sending/send_email_with_attachment_gmail.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -25,8 +15,8 @@
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
-        <option value="HTML File" />
         <option value="Python Script" />
+        <option value="HTML File" />
       </list>
     </option>
   </component>
@@ -44,96 +34,97 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "ASKED_ADD_EXTERNAL_FILES": "true",
-    "DefaultHtmlFileTemplate": "HTML File",
-    "Python.1_country_data.executor": "Run",
-    "Python.access_json_data_countries.executor": "Run",
-    "Python.add_day_and_words_count_to_filenames.executor": "Run",
-    "Python.adding_numbers.executor": "Run",
-    "Python.analyze_car_data.executor": "Run",
-    "Python.analyze_car_sales.executor": "Run",
-    "Python.analyze_plant_data.executor": "Run",
-    "Python.analyze_weather_data.executor": "Run",
-    "Python.app.executor": "Run",
-    "Python.automate_login.executor": "Run",
-    "Python.automated_download.executor": "Run",
-    "Python.automated_station.executor": "Run",
-    "Python.birds.executor": "Run",
-    "Python.bmi_calculator.executor": "Run",
-    "Python.book_api.executor": "Run",
-    "Python.calculate_bonus_colum_excel.executor": "Run",
-    "Python.calculator.executor": "Run",
-    "Python.calculator_2.executor": "Run",
-    "Python.clean_folder.executor": "Run",
-    "Python.count_word_frequencies.executor": "Run",
-    "Python.current_temperature.executor": "Run",
-    "Python.daily_notes.executor": "Run",
-    "Python.data_entry.executor": "Run",
-    "Python.database_conversion (1).executor": "Run",
-    "Python.days_between_date.executor": "Run",
-    "Python.detect_duplicate_files.executor": "Run",
-    "Python.detect_duplicate_files_with_hash.executor": "Run",
-    "Python.detect_duplicate_images.executor": "Run",
-    "Python.dicovering_country_details.executor": "Run",
-    "Python.discovering_historical_events_by_date.executor": "Run",
-    "Python.earthquake_data_for_any_range.executor": "Run",
-    "Python.earthquake_mao.executor": "Run",
-    "Python.earthquake_map.executor": "Run",
-    "Python.ebird_api.executor": "Run",
-    "Python.europe_country_map.executor": "Run",
-    "Python.extract_earthquake_data.executor": "Run",
-    "Python.extract_email.executor": "Run",
-    "Python.file_uploader.executor": "Run",
-    "Python.frame.executor": "Run",
-    "Python.inaturalist.executor": "Run",
-    "Python.magic_methods.executor": "Run",
-    "Python.main.executor": "Run",
-    "Python.map_t_intersection_vechile_incidents.executor": "Run",
-    "Python.mergin_excels.executor": "Run",
-    "Python.merging_content (1).executor": "Run",
-    "Python.merging_content.executor": "Run",
-    "Python.modify_word_documents (1).executor": "Run",
-    "Python.modify_word_documents.executor": "Run",
-    "Python.mon.executor": "Run",
-    "Python.numerical_input_analyzer.executor": "Run",
-    "Python.playfair.executor": "Run",
-    "Python.plot_data_from_multiples_files.executor": "Run",
-    "Python.plot_data_matplotlib.executor": "Run",
-    "Python.plotly_employee_data.executor": "Run",
-    "Python.plotly_housing_data.executor": "Run",
-    "Python.query_album.executor": "Run",
-    "Python.query_invoice.executor": "Run",
-    "Python.quizes_json_data.executor": "Run",
-    "Python.recipe_api.executor": "Run",
-    "Python.reversed_text.executor": "Run",
-    "Python.scrape_value_from_website.executor": "Run",
-    "Python.scrapping_wikipedia.executor": "Run",
-    "Python.send_email_with_attachment_gmail.executor": "Run",
-    "Python.sq.executor": "Run",
-    "Python.sytem_metrices.executor": "Run",
-    "Python.temp_from_weather.com.executor": "Run",
-    "Python.temperature_converter_gui.executor": "Run",
-    "Python.text_analyzer.executor": "Run",
-    "Python.text_to_sentence_case.executor": "Run",
-    "Python.translation_app.executor": "Run",
-    "Python.word-guessing.executor": "Run",
-    "Python.word_count_from_pdf.executor": "Run",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "git-widget-placeholder": "main",
-    "ignore.virus.scanning.warn.message": "true",
-    "last_opened_file_path": "C:/Users/ANIL KUMAR YADAV/python app/pythonProjects/35_rgeular_expressions/documents",
-    "settings.editor.selected.configurable": "preferences.pluginManager"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;ASKED_ADD_EXTERNAL_FILES&quot;: &quot;true&quot;,
+    &quot;DefaultHtmlFileTemplate&quot;: &quot;HTML File&quot;,
+    &quot;Python.1_country_data.executor&quot;: &quot;Run&quot;,
+    &quot;Python.access_json_data_countries.executor&quot;: &quot;Run&quot;,
+    &quot;Python.add_day_and_words_count_to_filenames.executor&quot;: &quot;Run&quot;,
+    &quot;Python.adding_numbers.executor&quot;: &quot;Run&quot;,
+    &quot;Python.analyze_car_data.executor&quot;: &quot;Run&quot;,
+    &quot;Python.analyze_car_sales.executor&quot;: &quot;Run&quot;,
+    &quot;Python.analyze_plant_data.executor&quot;: &quot;Run&quot;,
+    &quot;Python.analyze_weather_data.executor&quot;: &quot;Run&quot;,
+    &quot;Python.app.executor&quot;: &quot;Run&quot;,
+    &quot;Python.automate_login.executor&quot;: &quot;Run&quot;,
+    &quot;Python.automated_download.executor&quot;: &quot;Run&quot;,
+    &quot;Python.automated_station.executor&quot;: &quot;Run&quot;,
+    &quot;Python.birds.executor&quot;: &quot;Run&quot;,
+    &quot;Python.bmi_calculator.executor&quot;: &quot;Run&quot;,
+    &quot;Python.book_api.executor&quot;: &quot;Run&quot;,
+    &quot;Python.calculate_bonus_colum_excel.executor&quot;: &quot;Run&quot;,
+    &quot;Python.calculator.executor&quot;: &quot;Run&quot;,
+    &quot;Python.calculator_2.executor&quot;: &quot;Run&quot;,
+    &quot;Python.clean_folder.executor&quot;: &quot;Run&quot;,
+    &quot;Python.count_word_frequencies.executor&quot;: &quot;Run&quot;,
+    &quot;Python.current_temperature.executor&quot;: &quot;Run&quot;,
+    &quot;Python.daily_notes.executor&quot;: &quot;Run&quot;,
+    &quot;Python.data_entry.executor&quot;: &quot;Run&quot;,
+    &quot;Python.database_conversion (1).executor&quot;: &quot;Run&quot;,
+    &quot;Python.days_between_date.executor&quot;: &quot;Run&quot;,
+    &quot;Python.detect_duplicate_files.executor&quot;: &quot;Run&quot;,
+    &quot;Python.detect_duplicate_files_with_hash.executor&quot;: &quot;Run&quot;,
+    &quot;Python.detect_duplicate_images.executor&quot;: &quot;Run&quot;,
+    &quot;Python.dicovering_country_details.executor&quot;: &quot;Run&quot;,
+    &quot;Python.discovering_historical_events_by_date.executor&quot;: &quot;Run&quot;,
+    &quot;Python.earthquake_data_for_any_range.executor&quot;: &quot;Run&quot;,
+    &quot;Python.earthquake_mao.executor&quot;: &quot;Run&quot;,
+    &quot;Python.earthquake_map.executor&quot;: &quot;Run&quot;,
+    &quot;Python.ebird_api.executor&quot;: &quot;Run&quot;,
+    &quot;Python.europe_country_map.executor&quot;: &quot;Run&quot;,
+    &quot;Python.extract_earthquake_data.executor&quot;: &quot;Run&quot;,
+    &quot;Python.extract_email.executor&quot;: &quot;Run&quot;,
+    &quot;Python.extract_text.executor&quot;: &quot;Run&quot;,
+    &quot;Python.file_uploader.executor&quot;: &quot;Run&quot;,
+    &quot;Python.frame.executor&quot;: &quot;Run&quot;,
+    &quot;Python.inaturalist.executor&quot;: &quot;Run&quot;,
+    &quot;Python.magic_methods.executor&quot;: &quot;Run&quot;,
+    &quot;Python.main.executor&quot;: &quot;Run&quot;,
+    &quot;Python.map_t_intersection_vechile_incidents.executor&quot;: &quot;Run&quot;,
+    &quot;Python.mergin_excels.executor&quot;: &quot;Run&quot;,
+    &quot;Python.merging_content (1).executor&quot;: &quot;Run&quot;,
+    &quot;Python.merging_content.executor&quot;: &quot;Run&quot;,
+    &quot;Python.modify_word_documents (1).executor&quot;: &quot;Run&quot;,
+    &quot;Python.modify_word_documents.executor&quot;: &quot;Run&quot;,
+    &quot;Python.mon.executor&quot;: &quot;Run&quot;,
+    &quot;Python.numerical_input_analyzer.executor&quot;: &quot;Run&quot;,
+    &quot;Python.playfair.executor&quot;: &quot;Run&quot;,
+    &quot;Python.plot_data_from_multiples_files.executor&quot;: &quot;Run&quot;,
+    &quot;Python.plot_data_matplotlib.executor&quot;: &quot;Run&quot;,
+    &quot;Python.plotly_employee_data.executor&quot;: &quot;Run&quot;,
+    &quot;Python.plotly_housing_data.executor&quot;: &quot;Run&quot;,
+    &quot;Python.query_album.executor&quot;: &quot;Run&quot;,
+    &quot;Python.query_invoice.executor&quot;: &quot;Run&quot;,
+    &quot;Python.quizes_json_data.executor&quot;: &quot;Run&quot;,
+    &quot;Python.recipe_api.executor&quot;: &quot;Run&quot;,
+    &quot;Python.reversed_text.executor&quot;: &quot;Run&quot;,
+    &quot;Python.scrape_value_from_website.executor&quot;: &quot;Run&quot;,
+    &quot;Python.scrapping_wikipedia.executor&quot;: &quot;Run&quot;,
+    &quot;Python.send_email_with_attachment_gmail.executor&quot;: &quot;Run&quot;,
+    &quot;Python.sq.executor&quot;: &quot;Run&quot;,
+    &quot;Python.sytem_metrices.executor&quot;: &quot;Run&quot;,
+    &quot;Python.temp_from_weather.com.executor&quot;: &quot;Run&quot;,
+    &quot;Python.temperature_converter_gui.executor&quot;: &quot;Run&quot;,
+    &quot;Python.text_analyzer.executor&quot;: &quot;Run&quot;,
+    &quot;Python.text_to_sentence_case.executor&quot;: &quot;Run&quot;,
+    &quot;Python.translation_app.executor&quot;: &quot;Run&quot;,
+    &quot;Python.word-guessing.executor&quot;: &quot;Run&quot;,
+    &quot;Python.word_count_from_pdf.executor&quot;: &quot;Run&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;main&quot;,
+    &quot;ignore.virus.scanning.warn.message&quot;: &quot;true&quot;,
+    &quot;last_opened_file_path&quot;: &quot;C:/Users/ANIL KUMAR YADAV/python app/pythonProjects/35_rgeular_expressions/text&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;preferences.pluginManager&quot;
   }
-}]]></component>
+}</component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\ANIL KUMAR YADAV\python app\pythonProjects\35_rgeular_expressions\text" />
       <recent name="C:\Users\ANIL KUMAR YADAV\python app\pythonProjects\35_rgeular_expressions\documents" />
       <recent name="C:\Users\ANIL KUMAR YADAV\python app\pythonProjects\5_working_with_Excel\MergingExcelFiles\excels" />
       <recent name="C:\Users\ANIL KUMAR YADAV\python app\pythonProjects\5_working_with_Excel" />
       <recent name="C:\Users\ANIL KUMAR YADAV\python app\pythonProjects\34_Automation" />
-      <recent name="C:\Users\ANIL KUMAR YADAV\python app\pythonProjects\32_pdfplumber" />
     </key>
     <key name="MoveFile.RECENT_KEYS">
       <recent name="C:\Users\ANIL KUMAR YADAV\python app\pythonProjects\26_Folium_Web_Mapping\Europe_country's" />
@@ -143,29 +134,7 @@
       <recent name="C:\Users\ANIL KUMAR YADAV\python app\pythonProjects\22_Shutil" />
     </key>
   </component>
-  <component name="RunManager" selected="Python.extract_email">
-    <configuration name="automated_station" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
-      <module name="pythonProjects" />
-      <option name="ENV_FILES" value="" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/34_Automation" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/34_Automation/automated_station.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
+  <component name="RunManager" selected="Python.extract_text">
     <configuration name="calculate_bonus_colum_excel" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="pythonProjects" />
       <option name="ENV_FILES" value="" />
@@ -202,6 +171,28 @@
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <option name="SCRIPT_NAME" value="$PROJECT_DIR$/35_rgeular_expressions/extract_email.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="extract_text" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="pythonProjects" />
+      <option name="ENV_FILES" value="" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/35_rgeular_expressions" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/35_rgeular_expressions/extract_text.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -256,11 +247,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.extract_text" />
         <item itemvalue="Python.extract_email" />
         <item itemvalue="Python.mergin_excels" />
         <item itemvalue="Python.calculate_bonus_colum_excel" />
         <item itemvalue="Python.sytem_metrices" />
-        <item itemvalue="Python.automated_station" />
       </list>
     </recent_temporary>
   </component>
@@ -352,7 +343,15 @@
       <option name="project" value="LOCAL" />
       <updated>1726592231523</updated>
     </task>
-    <option name="localTasksCounter" value="10" />
+    <task id="LOCAL-00010" summary="completed 100 projects">
+      <option name="closed" value="true" />
+      <created>1726642526642</created>
+      <option name="number" value="00010" />
+      <option name="presentableId" value="LOCAL-00010" />
+      <option name="project" value="LOCAL" />
+      <updated>1726642526642</updated>
+    </task>
+    <option name="localTasksCounter" value="11" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
@@ -361,7 +360,8 @@
     <MESSAGE value="added 22 projetcs" />
     <MESSAGE value="25 th project data visualization" />
     <MESSAGE value="make calculator using tkinter" />
-    <option name="LAST_COMMIT_MESSAGE" value="make calculator using tkinter" />
+    <MESSAGE value="completed 100 projects" />
+    <option name="LAST_COMMIT_MESSAGE" value="completed 100 projects" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
